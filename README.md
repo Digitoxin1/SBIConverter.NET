@@ -1,2 +1,2 @@
-# SBIConverter.NET
+# SBIConverter
 Creates SUB+MDF files from BIN+SBI files
